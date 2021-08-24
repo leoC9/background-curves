@@ -2,6 +2,7 @@
 <hr/>
 
 <h3>Simple Curves</h3>
+
 ![](img-presentation/simple-curves.png)
 
 <h3>Curves with svg and gradient colors</h3>
